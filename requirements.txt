@@ -1,0 +1,12 @@
+with open("requirements.txt", "w") as f:
+    f.write("""matplotlib
+librosa
+ipython
+scipy
+pandas
+numpy
+seaborn
+scikit-learn
+xgboost
+catboost
+tensorflow""")
