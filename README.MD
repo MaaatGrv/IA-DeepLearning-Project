@@ -1,5 +1,5 @@
 # Rapport : **GTZAN - Music Genre Classification**
-
+Le programme pour la partie machine learning est dans Projet_IA_Deep_Learning_part/deep_learning/test_pierre.ipynb
 ## 1. Sujet choisi 
 ### Contexte  
 Le dataset **GTZAN - Music Genre Classification** est une référence incontournable dans le domaine de la reconnaissance automatique des genres musicaux. Créé par George Tzanetakis en 2001, il contient 1000 extraits audio de 30 secondes répartis uniformément sur 10 genres.
