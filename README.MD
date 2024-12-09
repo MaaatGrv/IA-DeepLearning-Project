@@ -90,6 +90,20 @@ Chaque genre contient 100 extraits audio.
 
 ### Architecture du modèle et processus d’entraînement
 
+Entrainrement avec différents modèles : 
+| Modèle                                | Accuracy  |
+|---------------------------------------|-----------|
+| Naive Bayes                           | 0.51952   |
+| Stochastic Gradient Descent           | 0.65532   |
+| KNN                                   | 0.80581   |
+| Decision Trees                        | 0.63997   |
+| Random Forest                         | 0.81415   |
+| Support Vector Machine                | 0.75409   |
+| Logistic Regression                   | 0.69770   |
+| Neural Nets                           | 0.67734   |
+| Cross Gradient Booster                | 0.90224   |
+| Cross Gradient Booster (Random Forest)| 0.74875   |
+
 #### Modèle utilisé
 
 Après comparaison de différents modèles, le **Cross Gradient Booster (XGBoost)** a été choisi pour sa performance avec une précision de 90%.
