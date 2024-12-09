@@ -5,3 +5,4 @@ venv
 Projet_IA_Deep_Learning_part/Data
 Projet_IA_Deep_Learning_part/venv
 genre_classification_model.h5
+test_audio.wav
