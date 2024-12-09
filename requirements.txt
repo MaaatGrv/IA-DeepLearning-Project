@@ -1,17 +1,26 @@
-matplotlib
-librosa
-ipython
-scipy
-pandas
+# Analyse de données et visualisation
 numpy
+pandas
+matplotlib
 seaborn
+scipy
 
+# Traitement audio
+librosa
+yt-dlp
+
+# Machine Learning
 scikit-learn
 xgboost
 catboost
+joblib
 
+# Deep Learning
 tensorflow
 
+# Web et tâches asynchrones (si utilisés ailleurs dans votre projet)
 Flask
+celery
 
-celery 
+# Environnement interactif
+ipython
